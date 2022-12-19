@@ -11,30 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Pennsylvania State Unversity 2016-2017
+* B.S. (with Highest Distinction) in Physics, Minor in Mathmatics, University of Rochester, 2017-2020
+* M.S. (with Honor stduent)in Electrical Engineering, Columbia University, 2020-2021
+* Ph.D in Computer Science, Virginia Tech, 2022 - now
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Research Project, The Study of Color Shifting in High Dynamic Range OLED Displays
+  * Columbia university, Supervised by [Prof. Ioannis Kymissis](https://www.ee.columbia.edu/ioannis-john-kymissis), Chair of Electrical Engineering Department
+  * Observed color shifting in the HDR mode playback and measured on commercial high-end OLED panels from two different companies to prove the damaging effect after displayed High Dynamic Range (HDR) video on an organic light-emitting diode (OLED) display aged for 1200 hours.
+  * Measured the system to quantify the color shift in aged OLED panels, which laid the groundwork for furtherresearch related to the differences in gamma curves for the SDR and HDR measurement targets.
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2019: Research Project, Physiological NMR Summer Research
+  * Brigham & Women's Hospital, Harvard Medical School，Supervised by [Dr. Huamei He](https://connects.catalyst.harvard.edu/Profiles/display/Person/27905)
+  * Perfused isolated mouse hearts in Langendorff mode with 10mM [1,2-13C2]-glucose low-flow ischemia successively, recorded the cardiac function with PowerLab Data Acquisition Systems and determined the lipid peroxidation with the Colorimetric/Fluorometric Assay Kit.
+  * Investigated flux of glucose through Pentose Phosphate Pathway (PPP) and glycolysis in mouse hearts subject to low-flow ischemia by perfusing the isolated mouse hearts in Langendorff mode, and concluded that [1,2-C]-glucose could be used to simultaneously assess flux of glucose through PPP and glycolysis, and the flux of glucose through both PPP and glycolysis increased during myocardial low- flow ischemia.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C/C++
+  * Python
+  * Matlab
+  * Verilog
+  * SPSS
+  * Mathematica
+  * Java
+* Machine Learning/Deep Learning
+  * Sciket-learn Pytorch
+  * Keras
+  * OpenCV
+  * TensorFlow
+* Design skills
+  * PCB designs
+  * Altium Designer
+  * Cadence
+  * Advanced Design System
+  * AutoCAD
+  * Creo
+  * Arduino
+  * Kile
+* Simulation and general skills
+  * COMSOL
+  * Zemax
+  * NMR
+  * LaTex
 
 Publications
 ======
