@@ -1,0 +1,16 @@
+---
+title: "Dog Image Generation using Deep Convolutional Generative Adversarial Networkss"
+collection: publications
+permalink: /publication/Dog Image Generation using Deep Convolutional Generative Adversarial Networks
+excerpt: '[Download paper here](https://Fanwei100.github.io/files/Dog Image Generation using Deep Convolutional Generative Adversarial Networks.pdf)'
+date: 2020-10-24
+venue: '2020 5th International Conference on Universal Village (UV)'
+paperurl: 
+citation:
+---
+Abstract:
+Generative Adversarial Networks (GAN) serve as an important position of the data generation models, providing possibility for generating nonexistent images, style transfer, back-ground masking, alternative faces, etc. However, the generated images are becoming more and more realistic, which has raised the concern of people's privacy. In this paper, we implemented a Deep Convolutional Generative Adversarial Network (DCGAN) to show how to generate novel dog images from noise. We improved the performance of the basic DCGAN by applying different tricks, including adding noise to the training images, excute input normalization and batch normalization, comparing different activation functions, and using soft labels. The purpose of all these tricks is to synchronize the learning process between generator and discriminator as well as introduce stochasticity. The performance evaluation is based on …
+
+[Download paper here](http://Fanwei100.github.io/files/Dog Image Generation using Deep Convolutional Generative Adversarial Networks.pdf)
+
+Recommended citation: Z. Shangguan, Y. Zhao, W. Fan, and Z. Cao, “Dog image generation using deep convolutional generative Adversarial Networks,” 2020 5th International Conference on Universal Village (UV), 2020. 
