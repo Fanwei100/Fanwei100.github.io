@@ -1,0 +1,15 @@
+---
+title: "U-Net for Satellite Image Segmentation: Improving the Weather Forecasting"
+collection: publications
+permalink: /publication/U-Net for Satellite Image Segmentation: Improving the Weather Forecasting
+excerpt: '[Download paper here](https://Fanwei100.github.io/files/U-Net for Satellite Image Segmentation: Improving the Weather Forecasting.pdf)'
+date: 2020-10-24
+venue: '2020 5th International Conference on Universal Village (UV)'
+paperurl: 
+citation:
+---
+Abstract：The clouds organization plays a huge role in forecasting the weather and Earth's future climate; therefore developing a better intelligent model is a way to accurately predict weather and predict weather and meteorological disasters, such as hurricane and tornado. In this paper, we classified the patterns of clouds into four types (sugar, flower, fish, and gravel) proposed by Rasp et al. and performed image segmentation. All the datasets were adopted from the Kaggle Competition. U-net was used as the basic structure and ResNet was applied to the original U-net structure after the data analysis. In addition, three different loss functions were used for training, the Test-time Augmentation was performed before feeding the test data to the model and the Amendment method was used to modify the results. The final dice coefficient reaches up to 0.665, which is an outstanding outcome that reflects the robustness of our method and training.
+
+[Download paper here](http://Fanwei100.github.io/files/U-Net for Satellite Image Segmentation: Improving the Weather Forecasting.pdf)
+
+Recommended citation: Y. Zhao, Z. Shangguan, W. Fan, Z. Cao, and J. Wang, “U-Net for satellite image segmentation: Improving the weather forecasting,” 2020 5th International Conference on Universal Village (UV), 2020. 
