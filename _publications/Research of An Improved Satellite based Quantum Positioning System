@@ -1,0 +1,16 @@
+---
+title: "Research of An Improved Satellite-based Quantum Positioning System"
+collection: publications
+permalink: /publication/Research of An Improved Satellite based Quantum Positioning System
+excerpt: '[Download paper here](https://Fanwei100.github.io/files/Research of An Improved Satellite based Quantum Positioning System.pdf)'
+date: 2019
+venue: '5th International Conference on Vehicle, Mechanical and Electrical Engineering (ICVMEE 2019)'
+paperurl: 
+citation:
+---
+Abstract:
+The accuracy of traditional GPS system is limited, and it is liable to be deceived and jammed. The problem of its application has become increasingly prominent. Based on quantum physics, quantum navigation technology has the potential to achieve high-precision navigation and positioning services. At present, the implementation scheme of baseline interferometric satellite-based quantum positioning system proposed by the United States requires six satellites to achieve positioning, and the cost of the system is high. This paper presents an improved satellite-based QPS system and describes it systematically. The whole QPS system includes the establishment of satellite-ground optical link, the acquisition of TDOA by entangled light, the process of ranging and positioning. Compared with the traditional baseline interferometric satellite-based QPS system, the number of satellites needed is reduced effectively.
+
+[Download paper here](http://Fanwei100.github.io/files/Research of An Improved Satellite based Quantum Positioning System.pdf)
+
+Recommended citation: W. Fan, “Research of an improved satellite-based Quantum Positioning System,” Proceedings of 5th International Conference on Vehicle, Mechanical and Electrical Engineering, 2019. 
