@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello, I’m Wei Fan, a first year CS PhD student at Virginia Tech advised by [Dr.Bo Ji](https://people.cs.vt.edu/boji/). My research interests include the system modeling and learning of computer and network systems. I have a particular interest in federated learning.
+Hello, I’m Wei Fan, a first year CS PhD student at Virginia Tech advised by [Dr.Bo Ji] (https://people.cs.vt.edu/boji/). My research interests include the LLM Agent and distributed systems.
 
 News
 ======
